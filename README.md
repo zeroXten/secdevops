@@ -1,3 +1,9 @@
+# Contributing
+
+Send a pull request :)
+
+# SevDevOps tools & resources
+
 ## Design & Development
 
 * Secure coding practices (OWASP, peer review etc)
