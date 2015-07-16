@@ -4,9 +4,15 @@ Send a pull request :)
 
 # SevDevOps tools & resources
 
-## Culture
+## Culture & Training
+
+### Presentations
 
 * https://speakerdeck.com/iodboi/crafting-an-effective-security-organisation-qcon-nyc
+* 
+### Conferences
+
+* http://www.devseccon.com/
 
 ## Design & Development
 
