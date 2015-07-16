@@ -1,6 +1,3 @@
-# secdevops
-SevDevOps tools and resources
-
 ## Design & Development
 
 * Secure coding practices (OWASP, peer review etc)
