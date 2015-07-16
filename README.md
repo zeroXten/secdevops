@@ -4,6 +4,10 @@ Send a pull request :)
 
 # SevDevOps tools & resources
 
+## Culture
+
+* https://speakerdeck.com/iodboi/crafting-an-effective-security-organisation-qcon-nyc
+
 ## Design & Development
 
 ### SDLC
