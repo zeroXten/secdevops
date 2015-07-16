@@ -17,6 +17,11 @@ Send a pull request :)
 
 ### Secure coding practices 
 ### Agile threat modelling
+
+* https://github.com/pki-io/threatspec
+* https://github.com/srenatus/threatspec-playground
+* https://www.sec.in.tum.de/code-nahe-schutzkonzepte
+
 ### Secure architecture
 
 ## Build
