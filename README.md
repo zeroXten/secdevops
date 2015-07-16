@@ -9,7 +9,7 @@ Send a pull request :)
 ### Presentations
 
 * https://speakerdeck.com/iodboi/crafting-an-effective-security-organisation-qcon-nyc
-* 
+
 ### Conferences
 
 * http://www.devseccon.com/
