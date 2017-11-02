@@ -90,7 +90,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "store 2"
+                  "text": "store 2 [AWS EC2]"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
